@@ -14,3 +14,5 @@
 - Service: stable network endpoint
 - ConfigMap: non-sensitive config
 - Secret: sensitive data storage
+# Troubleshooting
+Run: kubectl logs <pod> -n assignment3
