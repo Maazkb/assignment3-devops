@@ -8,3 +8,9 @@
 - Kubernetes (Minikube)
 - GitHub Actions CI/CD
 - Prometheus/Grafana (monitoring)
+# Kubernetes Concepts
+- Pod: smallest deployable unit
+- Deployment: manages pod replicas
+- Service: stable network endpoint
+- ConfigMap: non-sensitive config
+- Secret: sensitive data storage
